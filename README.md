@@ -11,6 +11,11 @@
 </div>
 
 ###
+<div align="center">
+### 🛠 &nbsp;Tech Stack
+</div>
+<br/>
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -37,8 +42,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="huthaifasyr7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-huthaifa%20dalwan-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/huthaifa-dalwan-%D8%AD%D8%B0%D9%8A%D9%81%D8%A9-%D8%AF%D9%84%D9%88%D8%A7%D9%86-b699421a6/" target="_blank"><img src="https://img.shields.io/badge/-huthaifa%20dalwan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
 </div>
 
 ###
